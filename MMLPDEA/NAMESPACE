@@ -1,0 +1,3 @@
+useDynLib(MMLPDEA)
+import(Benchmarking,lpSolveAPI)
+exportPattern("^[^\\.]") 
